@@ -12,7 +12,7 @@ import { ArrowForwardIcon } from '@chakra-ui/icons';
 
 const Connected: FC = () => {
   return (
-    <VStack spacing={20}>
+    <VStack spacing={13}>
       <Container>
         <VStack spacing={8}>
           <Heading
